@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+  <name>path_primitive</name>
+  <version>0.0.0</version>
+  <description>Path primitive package</description>
+
+  <maintainer email="maintainer@5drobotics.com">5D</maintainer>
+  <url type="website">http://swami/5d-ros/path_primitive/blob/develop/README.md</url>
+
+  <license>Copyright (C) 2015-2017 5D Robotics, Inc. All rights reserved.</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <build_depend>roscpp</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>path_msgs</build_depend>
+  
+  <run_depend>roscpp</run_depend>
+  <run_depend>tf</run_depend>
+  <run_depend>path_msgs</run_depend>
+
+  <export>
+  </export>
+</package>
