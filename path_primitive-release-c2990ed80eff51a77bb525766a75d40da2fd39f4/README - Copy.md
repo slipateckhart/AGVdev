@@ -9,7 +9,7 @@ A library used by virtual rail controller for processing the path segments and a
 
 	The library takes in path through path_msgs mostly and outputs a object of the struct PathPrimitiveResult that gives information about the robot's projection on path segments and errors in distance and heading with respect to the path. The hierarchy of the classes in this library is shown in the image below.
 
-![Hierarchy of classes](https://github.com/slipsateckhart/AGVdev/resources/images/hoc.jpg)
+![Hierarchy of classes](/AGVdev/resources/images/hoc.jpg)
 
 ## Code example
 
